@@ -1,4 +1,4 @@
-file 2812 1619627209                                            
+file 2812 1619627242                                            
 version 2
 run Default-0-20210428-16:25:12-6653
 attr configname Default
@@ -65,11 +65,10 @@ param *.node[*0].veinsmobility.accidentStart 73s
 param *.node[*0].veinsmobility.accidentDuration 50s
 
 vector 0 RSUExampleScenario.node[0].veinsmobility posx ETV
-vector 1 RSUExampleScenario.node[0].veinsmobility posy ETV
-vector 2 RSUExampleScenario.node[1].veinsmobility posx ETV
-vector 3 RSUExampleScenario.node[1].veinsmobility posy ETV
 0	2724 22 2 2 1 1 1 1664.4380650221 1664.4380650221 1664.4380650221 2770354.0722945
-1	2746 22 2 2 1 1 1 1524.8696620562 1524.8696620562 1524.8696620562 2325227.4862593
-2	2768 21 3 3 2 2 1 2505.627511307 2505.627511307 2505.627511307 6278169.2254186
-3	2789 22 3 3 2 2 1 2188.5686815764 2188.5686815764 2188.5686815764 4789832.8739771
-
+vector 1 RSUExampleScenario.node[0].veinsmobility posy ETV
+1	2746 22 2 2 1 1 1 1524.8696620562 1524.8696620562 1524.8696620562 2325227.4862594
+vector 2 RSUExampleScenario.node[1].veinsmobility posx ETV
+2	2768 21 3 3 2 2 1 2505.627511307 2505.627511307 2505.627511307 6278169.2254185
+vector 3 RSUExampleScenario.node[1].veinsmobility posy ETV
+3	2789 23 3 3 2 2 1 2188.5686815764 2188.5686815764 2188.5686815764 4789832.8739771
