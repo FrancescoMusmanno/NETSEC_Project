@@ -25,7 +25,7 @@
 // Based on inet::MovingMobilityBase of INET Framework v4.0.0
 //
 
-package vanettutorials.veins_inet;
+package src.veins_inet;
 
 import inet.mobility.base.MobilityBase;
 

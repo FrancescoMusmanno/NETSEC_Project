@@ -20,11 +20,11 @@
 // Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 //
 
-package vanettutorials.simulations.routing;
+package simulations.routing;
 
 import inet.physicallayer.ieee80211.packetlevel.Ieee80211ScalarRadioMedium;
-import vanettutorials.veins_inet.VeinsInetRoutingCar;
-import vanettutorials.veins_inet.VeinsInetManager;
+import src.veins_inet.VeinsInetRoutingCar;
+import src.veins_inet.VeinsInetManager;
 
 network RoutingScenario
 {

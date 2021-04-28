@@ -13,7 +13,7 @@
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
-package vanettutorials.simulations.wirelessnetwork;
+package simulations.wirelessnetwork;
 
 import inet.networklayer.configurator.ipv4.Ipv4NetworkConfigurator;
 import inet.physicallayer.contract.packetlevel.IRadioMedium;

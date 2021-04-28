@@ -1,3 +1,3 @@
-package vanettutorials.simulations;
+package simulations;
 
 @license(LGPL);

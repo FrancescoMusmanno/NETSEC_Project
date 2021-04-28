@@ -1,3 +1,3 @@
-package vanettutorials;
+package src;
 
 @license(LGPL);
