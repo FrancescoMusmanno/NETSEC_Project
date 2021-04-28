@@ -2,5 +2,6 @@
 <launch>
     <copy file="castrovillari.net.xml" />
     <copy file="castrovillari.rou.xml" />
+    <copy file="castrovillari.poly.xml" />
     <copy file="castrovillari.sumo.cfg" type="config" />
 </launch>
