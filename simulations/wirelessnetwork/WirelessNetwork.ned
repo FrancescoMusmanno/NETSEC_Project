@@ -19,6 +19,8 @@ import inet.networklayer.configurator.ipv4.Ipv4NetworkConfigurator;
 import inet.physicallayer.contract.packetlevel.IRadioMedium;
 import inet.node.inet.WirelessHost;
 import inet.visualizer.integrated.IntegratedCanvasVisualizer;
+import src.veins_inet.VeinsInetManager;
+import src.veins_inet.VeinsInetCar;
 
 //
 // TODO auto-generated type
